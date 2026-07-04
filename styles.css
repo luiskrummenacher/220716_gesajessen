@@ -1,0 +1,14 @@
+body { 
+    background-color: mistyrose; 
+    font-family: sans-serif;
+    color: orangered;
+}
+
+a {
+        color: inherit;
+        text-decoration: none;
+}
+
+a:hover {
+    color: tomato;
+}
